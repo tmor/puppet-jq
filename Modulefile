@@ -1,5 +1,5 @@
 name         'rfletcher-jq'
-version      '0.0.1'
+version      '0.0.2'
 license      'MIT License'
 summary      'A puppet module for jq'
 description  'Install or remove jq'
